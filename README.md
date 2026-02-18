@@ -12,11 +12,4 @@ Currently mastering **Spring Boot** and exploring **Linux Architecture**. I focu
 
 ---
 
-### 🚀 Featured Projects
-* 🚆 **Train Ticket Booking System** - Web-based group project.
-* 🌍 **Travel Mania** - Travel management & equipment rental site.
 
----
-
-### 🏆 Achievements
-![Pull Shark](https://github-profile-trophy.vercel.app/?username=nimsaralekamge&theme=radical&rank=SSS)
