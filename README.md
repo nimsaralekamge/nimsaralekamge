@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nimsara Lekamge
 
-<!--
-**nimsaralekamge/nimsaralekamge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Full-Stack Developer & Designer
+🎓 **Software Engineering Undergraduate** based in **Sri Lanka** 🇱🇰
 
-Here are some ideas to get you started:
+Currently mastering **Spring Boot** and exploring **Linux Architecture**. I focus on blending clean code with creative design across **Java, Python, and PHP**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,py,php,git,github,vscode,idea)](https://skillicons.dev)
+
+---
+
+### 🚀 Featured Projects
+* 🚆 **Train Ticket Booking System** - Web-based group project.
+* 🌍 **Travel Mania** - Travel management & equipment rental site.
+
+---
+
+### 🏆 Achievements
+![Pull Shark](https://github-profile-trophy.vercel.app/?username=nimsaralekamge&theme=radical&rank=SSS)
