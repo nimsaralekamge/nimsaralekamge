@@ -3,7 +3,7 @@
 ### 🛠️ Full-Stack Developer & Designer
 🎓 **Software Engineering Undergraduate** based in **Sri Lanka** 🇱🇰
 
-Currently mastering **Spring Boot** and exploring **Linux Architecture**. I focus on blending clean code with creative design across **Java, Python, and PHP**.
+Currently mastering **Spring Boot** and exploring **Linux Architecture**. I focus on blending clean code with creative designs.
 
 ---
 
