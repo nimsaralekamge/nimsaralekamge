@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nimsara Lekamge
+#  Hi, I'm Nimsara Lekamge
 
 ### 🛠️ Full-Stack Developer & Designer
 🎓 **Software Engineering Undergraduate** based in **Sri Lanka** 🇱🇰
