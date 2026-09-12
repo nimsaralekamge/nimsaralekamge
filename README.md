@@ -1,28 +1,25 @@
-# Hi, I'm Nimsara Lekamge ✨
+# Hi, I'm Nimsara Lekamge
 
-### 🛠️ Full-Stack Developer & UI/UX Enthusiast
-🎓 **Software Engineering Undergraduate at NSBM Green University** | 📍 **Sri Lanka** 🇱🇰 ✈️ **Targeting Dubai's Tech Ecosystem**
+### 🛠️ Full-Stack Developer & Designer
+🎓 **Software Engineering Undergraduate at NSBM Green University** | 📍 **Sri Lanka** 🇱🇰
 
-I specialize in developing enterprise software and web applications, blending clean architecture with minimalist, premium design aesthetics. I am passionate about building robust, high-throughput backends while crafting sleek, cinematic user interfaces with dark themes and subtle accents.
+I specialize in developing cross-platform applications and enterprise software, blending clean architecture with minimalist, premium design. 
 
 ---
 
 ### 🚀 What I'm Up To
-* 💻 **Building:** Advanced web and enterprise applications.
-* 🌱 **Exploring:** Linux Architecture and scalable backend solutions.
-* 🎯 **Future Goals:** Transitioning into professional technology and creative software engineering roles in Dubai post-graduation.
+* 💻 **Building:** Full-stack web and mobile applications.
+* 🌱 **Exploring:** Linux Architecture and system optimization.
 
 ---
 
-### 💻 Languages, Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,js,react,vite,tailwind,php,postgres,mysql,git,github,vscode,idea)](https://skillicons.dev)
+### 💻 Tech Stack & Tools
 
----
+**Languages:** Java, C#, Python, JavaScript, PHP, Dart, Kotlin
+**Frameworks & Libraries:** React, Flutter
+**Tools & Environments:** Git, GitHub, VS Code, IntelliJ IDEA
 
-### 📂 Featured Projects
-* **TechTitans:** A high-throughput proxy monitoring backend application engineered with Spring Boot and an H2 database architecture.
-* **University ERP System:** Designed and developed the comprehensive front-end admin panel for a collaborative enterprise resource planning project.
-* **GameZone:** A fully functional web-based e-commerce platform built from the ground up using PHP, MySQL, and JavaScript.
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,js,php,react,dart,kotlin,flutter,git,github,vscode,idea)](https://skillicons.dev)
 
 ---
 
