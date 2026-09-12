@@ -15,13 +15,14 @@ I specialize in developing cross-platform applications and enterprise software, 
 
 ### 💻 Tech Stack & Tools
 
-**Languages:** Java, C#, Python, JavaScript, PHP, Dart, Kotlin
-**Frameworks & Libraries:** React, Flutter
-**Tools & Environments:** Git, GitHub, VS Code, IntelliJ IDEA
+**Languages:** Java, C#, Python, JavaScript, PHP, Dart, Kotlin  
+**Frameworks & Libraries:** React, Flutter  
+**Tools & Environments:** Git, GitHub, VS Code, IntelliJ IDEA  
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,py,js,php,react,dart,kotlin,flutter,git,github,vscode,idea)](https://skillicons.dev)
 
 ---
 
 ### 📫 Let's Connect
-<!-- Add your LinkedIn, Portfolio, or Email links here -->
+🌍 **Portfolio:** [nimsara.dev](https://nimsara.dev)  
+💼 **LinkedIn:** [Nimsara Lekamge](https://www.linkedin.com/in/nimsara-lekamge-9b1740329)
