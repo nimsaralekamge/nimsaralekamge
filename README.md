@@ -17,9 +17,9 @@ I specialize in developing cross-platform applications and enterprise software, 
 
 **Languages:** Java, C#, Python, JavaScript, PHP, Dart, Kotlin  
 **Frameworks & Libraries:** React, Flutter  
-**Tools & Environments:** Git, GitHub, VS Code, IntelliJ IDEA  
+**Tools & Environments:** Git, GitHub, VS Code, IntelliJ IDEA, Figma  
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,js,php,react,dart,kotlin,flutter,git,github,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,js,php,react,dart,kotlin,flutter,figma,git,github,vscode,idea)](https://skillicons.dev)
 
 ---
 
