@@ -22,11 +22,37 @@
 
 ## 👨‍💻 About Me
 
-> I specialize in developing cross-platform applications and enterprise software, blending clean architecture with minimalist, premium design.
+```js
+const nimsara = {
+  role: "Full-Stack Developer & Designer",
+  education: "Software Engineering @ NSBM Green University",
+  location: "Sri Lanka 🇱🇰",
 
-| 🔭 Building | 🌱 Exploring | 🎯 Focus |
-|:--|:--|:--|
-| Full-stack web & mobile applications | Linux architecture & system optimization | Clean code, premium UI/UX |
+  building: ["Cross-platform apps", "Enterprise software", "Full-stack web & mobile"],
+  exploring: ["Linux architecture", "System optimization"],
+
+  philosophy: "Clean architecture meets minimalist, premium design.",
+
+  currentlyLearning() {
+    return "Always something new 🚀";
+  },
+};
+```
+
+---
+
+## 🖥️ Terminal
+
+```bash
+nimsara@dev:~$ whoami
+> full-stack developer who cares about design
+
+nimsara@dev:~$ cat focus.txt
+> clean code • premium UI/UX • cross-platform
+
+nimsara@dev:~$ echo $MOTTO
+> Build it clean. Make it beautiful.
+```
 
 ---
 
@@ -53,8 +79,6 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-
-I'm open to internships, collaborations, and interesting projects.
 
 [![LinkedIn](https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimsara-lekamge-9b1740329)
 
