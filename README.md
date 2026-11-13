@@ -5,17 +5,17 @@
 ### Full-Stack Developer & Designer
 
 <a href="https://github.com/nimsaralekamge">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Piltover+polish.+Zaun+creativity.;Building+cross-platform+apps;Exploring+Linux+%26+system+optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Building+cross-platform+applications;Clean+architecture+%2B+minimalist+design;Exploring+Linux+%26+system+optimization" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Location](https://img.shields.io/badge/LOCATION-Sri%20Lanka-C8AA6E?style=for-the-badge&logo=googlemaps&logoColor=C8AA6E&labelColor=0D0A1A)
-![University](https://img.shields.io/badge/STUDYING-NSBM%20Green%20University-C8AA6E?style=for-the-badge&logo=academia&logoColor=C8AA6E&labelColor=0D0A1A)
+![Location](https://img.shields.io/badge/LOCATION-Sri%20Lanka-3A3F47?style=for-the-badge&logo=googlemaps&logoColor=9DA5B0&labelColor=0D1117)
+![University](https://img.shields.io/badge/STUDYING-NSBM%20Green%20University-3A3F47?style=for-the-badge&logo=academia&logoColor=9DA5B0&labelColor=0D1117)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D0A1A)](https://www.linkedin.com/in/nimsara-lekamge-9b1740329)
-[![GitHub](https://img.shields.io/badge/GITHUB-nimsaralekamge-FF2E93?style=for-the-badge&logo=github&logoColor=FF2E93&labelColor=0D0A1A)](https://github.com/nimsaralekamge)
-[![Email](https://img.shields.io/badge/EMAIL-Get%20in%20touch-00E5FF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D0A1A)](mailto:nimsaralekamge@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-3A3F47?style=for-the-badge&logo=linkedin&logoColor=9DA5B0&labelColor=0D1117)](https://www.linkedin.com/in/nimsara-lekamge-9b1740329)
+[![GitHub](https://img.shields.io/badge/GITHUB-nimsaralekamge-3A3F47?style=for-the-badge&logo=github&logoColor=9DA5B0&labelColor=0D1117)](https://github.com/nimsaralekamge)
+[![Email](https://img.shields.io/badge/EMAIL-Get%20in%20touch-3A3F47?style=for-the-badge&logo=gmail&logoColor=9DA5B0&labelColor=0D1117)](mailto:nimsaralekamge@gmail.com)
 
 </div>
 
@@ -29,10 +29,11 @@ const nimsara = {
   education: "Software Engineering @ NSBM Green University",
   location: "Sri Lanka 🇱🇰",
 
-  piltover: ["Clean architecture", "Enterprise software", "Premium UI/UX"],
-  zaun: ["Linux experiments", "System optimization", "Breaking things to learn"],
+  focus: ["Cross-platform applications", "Enterprise software", "Premium UI/UX design"],
+  engineering: ["Clean architecture", "Maintainable, scalable code", "Performance & optimization"],
+  exploring: ["Linux architecture", "System optimization"],
 
-  philosophy: "Where Piltover's precision meets Zaun's creativity.",
+  principles: "Clean architecture. Minimalist design. Attention to detail.",
 
   currentlyLearning() {
     return "Always something new ⚡";
@@ -42,16 +43,14 @@ const nimsara = {
 
 ---
 
-## ⚙️ Two Worlds, One Developer
+## 🎯 What I Do
 
 <div align="center">
 
-| 🏙️ PILTOVER · Structure | 🧪 ZAUN · Experimentation |
-|:---:|:---:|
-| Clean architecture | Linux deep-dives |
-| Enterprise software | System optimization |
-| Polished, minimal design | Rapid prototyping |
-| Cross-platform apps | Learning by building |
+![Mobile](https://img.shields.io/badge/Cross--Platform%20Apps-3A3F47?style=for-the-badge&logo=flutter&logoColor=9DA5B0&labelColor=0D1117)
+![Web](https://img.shields.io/badge/Full--Stack%20Web-3A3F47?style=for-the-badge&logo=react&logoColor=9DA5B0&labelColor=0D1117)
+![Enterprise](https://img.shields.io/badge/Enterprise%20Software-3A3F47?style=for-the-badge&logo=openjdk&logoColor=9DA5B0&labelColor=0D1117)
+![Design](https://img.shields.io/badge/UI%2FUX%20Design-3A3F47?style=for-the-badge&logo=figma&logoColor=9DA5B0&labelColor=0D1117)
 
 </div>
 
@@ -61,15 +60,15 @@ const nimsara = {
 
 <div align="center">
 
-![Languages](https://img.shields.io/badge/LANGUAGES-0D0A1A?style=flat-square&labelColor=0D0A1A&color=C8AA6E)
+![Languages](https://img.shields.io/badge/LANGUAGES-3A3F47?style=flat-square&labelColor=0D1117)
 
 <img src="https://skillicons.dev/icons?i=java,cs,python,js,php,dart,kotlin&theme=dark" />
 
-![Frameworks](https://img.shields.io/badge/FRAMEWORKS-0D0A1A?style=flat-square&labelColor=0D0A1A&color=00E5FF)
+![Frameworks](https://img.shields.io/badge/FRAMEWORKS-3A3F47?style=flat-square&labelColor=0D1117)
 
 <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" />
 
-![Tools](https://img.shields.io/badge/TOOLS-0D0A1A?style=flat-square&labelColor=0D0A1A&color=FF2E93)
+![Tools](https://img.shields.io/badge/TOOLS-3A3F47?style=flat-square&labelColor=0D1117)
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,linux&theme=dark" />
 
@@ -81,7 +80,7 @@ const nimsara = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Message%20me-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D0A1A)](https://www.linkedin.com/in/nimsara-lekamge-9b1740329)
-[![Email](https://img.shields.io/badge/EMAIL-nimsaralekamge@gmail.com-FF2E93?style=for-the-badge&logo=gmail&logoColor=FF2E93&labelColor=0D0A1A)](mailto:nimsaralekamge@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Message%20me-3A3F47?style=for-the-badge&logo=linkedin&logoColor=9DA5B0&labelColor=0D1117)](https://www.linkedin.com/in/nimsara-lekamge-9b1740329)
+[![Email](https://img.shields.io/badge/EMAIL-nimsaralekamge@gmail.com-3A3F47?style=for-the-badge&logo=gmail&logoColor=9DA5B0&labelColor=0D1117)](mailto:nimsaralekamge@gmail.com)
 
 </div>
