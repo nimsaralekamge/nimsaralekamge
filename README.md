@@ -5,7 +5,7 @@
 ### Full-Stack Developer & Designer
 
 <a href="https://github.com/nimsaralekamge">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Building+cross-platform+applications;Clean+architecture+%2B+minimalist+design;Turning+ideas+into+elegant%2C+scalable+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Building+cross-platform+applications;Clean+architecture+%2B+minimalist+design;Turning+ideas+into+elegant%2C+scalable+software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
