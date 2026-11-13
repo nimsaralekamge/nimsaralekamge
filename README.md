@@ -5,7 +5,7 @@
 ### Full-Stack Developer & Designer
 
 <a href="https://github.com/nimsaralekamge">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Building+cross-platform+applications;Clean+architecture+%2B+minimalist+design;Exploring+Linux+%26+system+optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Building+cross-platform+applications;Clean+architecture+%2B+minimalist+design;Turning+ideas+into+elegant%2C+scalable+software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,8 +30,9 @@ const nimsara = {
   location: "Sri Lanka 🇱🇰",
 
   focus: ["Cross-platform applications", "Enterprise software", "Premium UI/UX design"],
-  engineering: ["Clean architecture", "Maintainable, scalable code", "Performance & optimization"],
-  exploring: ["Linux architecture", "System optimization"],
+  engineering: ["Clean architecture", "Maintainable, scalable code", "Performance-first thinking"],
+  craft: ["Pixel-perfect interfaces", "Intuitive user experiences", "Design systems with purpose"],
+  mindset: ["Curious by nature", "Obsessed with details", "Ship with intention"],
 
   principles: "Clean architecture. Minimalist design. Attention to detail.",
 
